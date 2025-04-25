@@ -11,18 +11,6 @@ Welcome to my GitHub portfolio! I'm a **Software Engineer** and **Full-Stack Dev
 
 ## 🚀 Key Projects
 
-### 📖 [**Pharmacy Management System**](#)
-
-A full-stack pharmacy management system built with **Java** and **Spring Boot**. It manages medications, tracks stock levels, records daily sales, and calculates revenue, aiming to reduce pilferage and optimize pharmacy operations.
-
-### 🌍 [**LifePilot**](#)
-
-An application to manage life tasks, goals, and overall productivity. Aimed at boosting time management, helping you plan your life, and track progress in a user-friendly interface.
-
-### 📝 [**Interactive Quiz App**](#)
-
-Built with **Flask/Django** for the backend and **HTML/CSS** for the frontend, this app features **user authentication**, **multiple-choice questions**, **scoring**, **time limits**, and integrates an **API** to expose quiz data. Perfect for fun and learning!
-
 ### 🖥 [**Blog Platform App**](#)
 
 A full-stack blog application built with **Node.js** for backend and **React.js** for frontend. Users can create, edit, and delete posts, comment, and engage with the content.
@@ -34,11 +22,7 @@ A full-stack blog application built with **Node.js** for backend and **React.js*
 - **Databases:** SQLite, PostgreSQL
 - **Other Technologies:** Docker, Git, RESTful API, WebSockets, GraphQL
 
-## 📚 Current Learning Journey
 
-- 🎓 **CS50 Courses:** I’m tackling the full **CS50** track (Computer Science, Web Programming, Databases, AI, etc.) to master core concepts of programming and problem-solving.
-- 🤖 **Machine Learning & AI:** I’m preparing for a future where AI plays a central role in my projects and solutions.
-- 💡 **Industry Trends:** I'm focused on aligning my learning with the latest trends in **AI-native applications**, **AI integration**, and **software engineering best practices**.
 
 ## 📈 My Stats
 
@@ -50,7 +34,7 @@ A full-stack blog application built with **Node.js** for backend and **React.js*
 
 - [LinkedIn](https://www.linkedin.com/in/meareg-teame)
 - [Twitter](https://twitter.com/teame1019)
-- [Website](https://yourwebsite.com)
+- [Website](https://mearegteame.netlify.app/)
 
 ---
 
