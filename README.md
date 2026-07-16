@@ -161,3 +161,330 @@ Whether it's an entrepreneur launching a startup, a developer shipping faster, o
 
 
 
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Featured Projects
+
+<div align="center">
+
+> **I don't just write code. I build products people can use.**
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌍 AfriTalent
+
+### AI-Powered Hiring Platform
+
+Connecting African talent with global companies through AI.
+
+**Highlights**
+
+- 🤖 AI-powered recruiting
+- 🌍 Global remote opportunities
+- ⚡ Modern UI/UX
+- 📈 Scalable architecture
+
+**Tech**
+
+`Next.js`
+`TypeScript`
+`TailwindCSS`
+`Node.js`
+
+---
+
+*"Making world-class opportunities accessible from anywhere."*
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Meargteame&repo=AfriTalent&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Meargteame&repo=CodeCollab&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="50%">
+
+## 💻 CodeCollab
+
+### Real-Time Collaborative IDE
+
+A modern collaborative coding platform inspired by VS Code.
+
+### Features
+
+✅ Monaco Editor
+
+✅ Live Collaboration
+
+✅ AI Assistant Ready
+
+✅ Authentication
+
+✅ Developer-first UX
+
+---
+
+*"Write together. Think together. Build together."*
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏢 Enterprise Software
+
+Real software built for real businesses.
+
+Projects include:
+
+🏡 Real Estate Platform
+
+💼 Consultancy Website
+
+📊 Business Dashboards
+
+⚙️ Internal Tools
+
+🌐 Production Deployments
+
+---
+
+*"Clean architecture meets business impact."*
+
+</td>
+
+<td width="50%">
+
+```text
+Status
+
+██████████████████
+
+Production Ready
+
+✔ Modern Frontend
+
+✔ Backend APIs
+
+✔ Database Design
+
+✔ Deployment
+
+✔ Performance
+
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚙️ Tech Arsenal
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css"/>
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+## Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma"/>
+
+## AI
+
+<img src="https://skillicons.dev/icons?i=openai"/>
+
+**LLMs • AI Agents • Prompt Engineering • RAG • Automation**
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,supabase,linux"/>
+
+</div>
+
+---
+
+# 🧠 Engineering Mindset
+
+```text
+                IDEA
+
+                 │
+
+                 ▼
+
+        Research Deeply
+
+                 │
+
+                 ▼
+
+        Build MVP Quickly
+
+                 │
+
+                 ▼
+
+      Gather User Feedback
+
+                 │
+
+                 ▼
+
+         Improve Relentlessly
+
+                 │
+
+                 ▼
+
+        Ship To Production
+
+```
+
+---
+
+# 🎯 What Excites Me
+
+<table>
+
+<tr>
+
+<td>
+
+🤖 AI Agents
+
+</td>
+
+<td>
+
+Designing autonomous systems that help people work smarter.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+⚡ Developer Tools
+
+</td>
+
+<td>
+
+Building software developers genuinely love using.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🚀 Startups
+
+</td>
+
+<td>
+
+Shipping quickly, validating ideas, and iterating fast.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🌍 Global Impact
+
+</td>
+
+<td>
+
+Creating products that solve meaningful problems worldwide.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🔥 Current Focus
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Building AI Products        ███████████░
+
+AI Agents                  ██████████░░
+
+Backend Engineering         ████████████
+
+Distributed Systems         ███████░░░░
+
+Open Source                 ██████░░░░░
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+<div align="center">
+
+## 💭 Favorite Quote
+
+*"The best way to predict the future is to build it."*
+
+</div>
+
+---
