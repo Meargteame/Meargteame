@@ -42,7 +42,7 @@
 
 ### Overview
 
-* **Founder & Tech Lead** at [Leons Lab](https://leonslab.tech) — shipping 0-to-1 SaaS products and client systems.
+* **Founder & Tech Lead** at [Leons Lab](https://leonslab.tech) - shipping 0-to-1 SaaS products and client systems.
 * **Core Technologies**: React, Next.js (App Router / SSR), TypeScript, Python (FastAPI / Django), Node.js, and PostgreSQL.
 * **Background**: Certified Back-end Engineer from ALX / Holberton School, Competitive Programming Fellow at A2SV, and B.Sc. in IT candidate at Bahir Dar University.
 * **Focus**: Engineering dependable software systems, automated workflows, and production-grade web applications.
@@ -63,7 +63,7 @@
     <tr>
       <td>
         <strong>Create4Me</strong><br>
-        <code>SaaS</code> · <code>Marketplace</code><br>
+        <code>SaaS</code> | <code>Marketplace</code><br>
         <sub>React • TypeScript • Node.js • Telebirr/CBE Escrow</sub>
       </td>
       <td>Two-sided creator marketplace & influencer booking platform featuring transparent rate cards, deliverable tracking, and automated escrow payments.</td>
@@ -75,7 +75,7 @@
     <tr>
       <td>
         <strong>TrustGrid</strong><br>
-        <code>SaaS</code> · <code>Security</code><br>
+        <code>SaaS</code> | <code>Security</code><br>
         <sub>Next.js • FastAPI • PostgreSQL RLS • Supabase</sub>
       </td>
       <td>Cryptographic social proof & trust verification wall turning authentic client reviews into embeddable proof widgets verified via Telegram identity.</td>
@@ -87,7 +87,7 @@
     <tr>
       <td>
         <strong>Torra Realestate</strong><br>
-        <code>Real Estate</code> · <code>SSR & SEO</code><br>
+        <code>Real Estate</code> | <code>SSR & SEO</code><br>
         <sub>Next.js • TypeScript • Tailwind CSS • SSR</sub>
       </td>
       <td>High-performance property management and real estate platform with advanced search filters, listings, and lead inquiry management.</td>
@@ -99,7 +99,7 @@
     <tr>
       <td>
         <strong>Ensight Global Consultancy</strong><br>
-        <code>Corporate Portal</code> · <code>Headless CMS</code><br>
+        <code>Corporate Portal</code> | <code>Headless CMS</code><br>
         <sub>Next.js • Headless WordPress • TypeScript • SSR</sub>
       </td>
       <td>High-speed corporate consultancy platform rebuilt with Next.js App Router and Headless WordPress, cutting page load by over 50%.</td>
@@ -111,7 +111,7 @@
     <tr>
       <td>
         <strong>Yaricho Senior Home Care</strong><br>
-        <code>Healthcare</code> · <code>Patient Portal</code><br>
+        <code>Healthcare</code> | <code>Patient Portal</code><br>
         <sub>Next.js • TypeScript • Tailwind CSS</sub>
       </td>
       <td>Healthcare service portal with transparent tier structures, patient consultation booking requests, and mobile-first UX.</td>
